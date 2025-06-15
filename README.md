@@ -97,7 +97,7 @@ https://test.xahauexplorer.com/en/tx/80B038A154F9756E6BCC11270372C90B51E5654D8C9
 - 上記 MEMO 問題のデバッグ・修正
 - テストシナリオの拡充
 - エラーハンドリングの強化
-  ‐ フロントとのつなぎ込み
+- フロントとのつなぎ込み
   https://xapay.replit.app/
 
 ## 5. コントリビューション
