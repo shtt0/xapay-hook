@@ -15,7 +15,7 @@ XApay は、多くの人が利用している「PayPay」のような手軽な�
 
 より詳細なコンセプトについては、以下の資料もご覧ください。
 
-▶ **[コンセプト資料 (Canva)](https://www.canva.com/design/DAGqbpw0TtQ/7_sqrkE8oNG9mV0a_6EBpA/edit?utm_content=DAGqbpw0TtQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+▶ **[コンセプト資料](https://www.canva.com/design/DAGqbpw0TtQ/7_sqrkE8oNG9mV0a_6EBpA/edit?utm_content=DAGqbpw0TtQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 ## 2. 技術的な特徴
 
@@ -67,6 +67,9 @@ Hook の活用により個人 → 店舗への決済履歴の追跡を困難に�
 ## 4. 現在のステータスと課題
 
 このプロジェクトは現在開発途上にあり、いくつかの課題が残っています。
+
+暫定でデプロイした Hook はこちら。
+https://test.xahauexplorer.com/en/tx/80B038A154F9756E6BCC11270372C90B51E5654D8C9FF72C3619090A46F7469E
 
 ### 🚨 [要修正] MEMO の判定ロジックの不具合
 
