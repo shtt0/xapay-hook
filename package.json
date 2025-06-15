@@ -1,0 +1,16 @@
+{
+  "name": "xahau-hooks",
+  "version": "1.0.0",
+  "description": "XAPay Hooks は、Xahau ネットワーク上で動作するカスタムフックです。1 XAH = 1 円のステーブルコインとして機能し、以下の機能を提供します：",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ripple-address-codec": "^5.0.0",
+    "xrpl": "^2.14.3"
+  }
+}
