@@ -13,7 +13,7 @@ XApay は、多くの人が利用している「PayPay」のような手軽な�
 - **利用シーン**: 全国のスーパーマーケットや小売店での支払いを想定しています。
 - **仕組み**: XApay はユーザーと店舗の間に立つ決済事業者です。ユーザーから預かった代金を、店舗が求めるタイミングでまとめて日本円で振り込みます。（※本プロジェクトでは振込部分はダミー画面で実装）
 
-より詳細なコンセプトやデモ画面については、以下の資料もご覧ください。
+より詳細なコンセプトについては、以下の資料もご覧ください。
 
 ▶ **[コンセプト資料 (Canva)](https://www.canva.com/design/DAGqbpw0TtQ/7_sqrkE8oNG9mV0a_6EBpA/edit?utm_content=DAGqbpw0TtQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
